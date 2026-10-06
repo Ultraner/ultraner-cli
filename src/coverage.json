@@ -1,0 +1,684 @@
+{
+  "source": "lib/pay-countries.ts",
+  "generatedAt": "2026-10-03",
+  "countries": [
+    {
+      "code": "TZ",
+      "name": "Tanzania",
+      "currency": "TZS",
+      "phonePrefix": "255",
+      "live": true,
+      "disbursement": "live",
+      "mnos": [
+        {
+          "id": "Vodacom",
+          "label": "M-Pesa (Vodacom)"
+        },
+        {
+          "id": "Airtel",
+          "label": "Airtel Money"
+        },
+        {
+          "id": "Tigo",
+          "label": "Mixx by Yas"
+        },
+        {
+          "id": "Halopesa",
+          "label": "Halopesa"
+        },
+        {
+          "id": "TTCL",
+          "label": "TTCL T-Pesa"
+        },
+        {
+          "id": "Azampesa",
+          "label": "AzamPesa"
+        }
+      ]
+    },
+    {
+      "code": "RW",
+      "name": "Rwanda",
+      "currency": "RWF",
+      "phonePrefix": "250",
+      "live": true,
+      "disbursement": "coming_soon",
+      "mnos": [
+        {
+          "id": "MTN",
+          "label": "MTN MoMo"
+        },
+        {
+          "id": "Airtel",
+          "label": "Airtel Money"
+        }
+      ]
+    },
+    {
+      "code": "KE",
+      "name": "Kenya",
+      "currency": "KES",
+      "phonePrefix": "254",
+      "live": true,
+      "disbursement": "coming_soon",
+      "mnos": [
+        {
+          "id": "Mpesa",
+          "label": "M-Pesa (Safaricom)"
+        },
+        {
+          "id": "Airtel",
+          "label": "Airtel Money"
+        },
+        {
+          "id": "TKash",
+          "label": "T-Kash"
+        }
+      ]
+    },
+    {
+      "code": "UG",
+      "name": "Uganda",
+      "currency": "UGX",
+      "phonePrefix": "256",
+      "live": true,
+      "disbursement": "coming_soon",
+      "mnos": [
+        {
+          "id": "MTN",
+          "label": "MTN MoMo"
+        },
+        {
+          "id": "Airtel",
+          "label": "Airtel Money"
+        }
+      ]
+    },
+    {
+      "code": "GH",
+      "name": "Ghana",
+      "currency": "GHS",
+      "phonePrefix": "233",
+      "live": false,
+      "disbursement": null,
+      "mnos": [
+        {
+          "id": "MTN",
+          "label": "MTN MoMo"
+        },
+        {
+          "id": "Telecel",
+          "label": "Telecel Cash"
+        },
+        {
+          "id": "AirtelTigo",
+          "label": "AirtelTigo Money"
+        }
+      ]
+    },
+    {
+      "code": "NG",
+      "name": "Nigeria",
+      "currency": "NGN",
+      "phonePrefix": "234",
+      "live": false,
+      "disbursement": null,
+      "mnos": [
+        {
+          "id": "OPay",
+          "label": "OPay"
+        },
+        {
+          "id": "PalmPay",
+          "label": "PalmPay"
+        },
+        {
+          "id": "Moniepoint",
+          "label": "Moniepoint"
+        },
+        {
+          "id": "Paga",
+          "label": "Paga"
+        },
+        {
+          "id": "MTN",
+          "label": "MTN MoMo"
+        },
+        {
+          "id": "Airtel",
+          "label": "Airtel SmartCash"
+        }
+      ]
+    },
+    {
+      "code": "SN",
+      "name": "Senegal",
+      "currency": "XOF",
+      "phonePrefix": "221",
+      "live": true,
+      "disbursement": "coming_soon",
+      "mnos": [
+        {
+          "id": "Wave",
+          "label": "Wave"
+        },
+        {
+          "id": "Orange Money",
+          "label": "Orange Money"
+        },
+        {
+          "id": "Free",
+          "label": "Free Money"
+        }
+      ]
+    },
+    {
+      "code": "CM",
+      "name": "Cameroon",
+      "currency": "XAF",
+      "phonePrefix": "237",
+      "live": true,
+      "disbursement": "coming_soon",
+      "mnos": [
+        {
+          "id": "MTN",
+          "label": "MTN MoMo"
+        },
+        {
+          "id": "Orange Money",
+          "label": "Orange Money"
+        },
+        {
+          "id": "ExpressUnion",
+          "label": "Express Union"
+        }
+      ]
+    },
+    {
+      "code": "ET",
+      "name": "Ethiopia",
+      "currency": "ETB",
+      "phonePrefix": "251",
+      "live": false,
+      "disbursement": null,
+      "mnos": [
+        {
+          "id": "Telebirr",
+          "label": "Telebirr"
+        },
+        {
+          "id": "Mpesa",
+          "label": "M-Pesa"
+        }
+      ]
+    },
+    {
+      "code": "CI",
+      "name": "Ivory Coast",
+      "currency": "XOF",
+      "phonePrefix": "225",
+      "live": true,
+      "disbursement": "coming_soon",
+      "mnos": [
+        {
+          "id": "Orange Money",
+          "label": "Orange Money"
+        },
+        {
+          "id": "MTN",
+          "label": "MTN MoMo"
+        },
+        {
+          "id": "Wave",
+          "label": "Wave"
+        }
+      ]
+    },
+    {
+      "code": "SS",
+      "name": "South Sudan",
+      "currency": "SSP",
+      "phonePrefix": "211",
+      "live": false,
+      "disbursement": null,
+      "mnos": [
+        {
+          "id": "MTN",
+          "label": "MTN MoMo"
+        },
+        {
+          "id": "Zain",
+          "label": "Zain"
+        }
+      ]
+    },
+    {
+      "code": "BF",
+      "name": "Burkina Faso",
+      "currency": "XOF",
+      "phonePrefix": "226",
+      "live": false,
+      "disbursement": null,
+      "mnos": [
+        {
+          "id": "Orange Money",
+          "label": "Orange Money"
+        },
+        {
+          "id": "Moov",
+          "label": "Moov Money"
+        },
+        {
+          "id": "Wave",
+          "label": "Wave"
+        }
+      ]
+    },
+    {
+      "code": "BI",
+      "name": "Burundi",
+      "currency": "BIF",
+      "phonePrefix": "257",
+      "live": false,
+      "disbursement": null,
+      "mnos": [
+        {
+          "id": "Lumicash",
+          "label": "Lumicash"
+        },
+        {
+          "id": "EcoCash",
+          "label": "EcoCash"
+        }
+      ]
+    },
+    {
+      "code": "ML",
+      "name": "Mali",
+      "currency": "XOF",
+      "phonePrefix": "223",
+      "live": false,
+      "disbursement": null,
+      "mnos": [
+        {
+          "id": "Orange Money",
+          "label": "Orange Money"
+        },
+        {
+          "id": "Moov",
+          "label": "Moov Money"
+        },
+        {
+          "id": "Wave",
+          "label": "Wave"
+        }
+      ]
+    },
+    {
+      "code": "BJ",
+      "name": "Benin",
+      "currency": "XOF",
+      "phonePrefix": "229",
+      "live": true,
+      "disbursement": "coming_soon",
+      "mnos": [
+        {
+          "id": "MTN",
+          "label": "MTN MoMo"
+        },
+        {
+          "id": "Moov",
+          "label": "Moov Money"
+        }
+      ]
+    },
+    {
+      "code": "NE",
+      "name": "Niger",
+      "currency": "XOF",
+      "phonePrefix": "227",
+      "live": false,
+      "disbursement": null,
+      "mnos": [
+        {
+          "id": "Airtel",
+          "label": "Airtel Money"
+        },
+        {
+          "id": "Zamani",
+          "label": "Zamani"
+        },
+        {
+          "id": "Moov",
+          "label": "Moov Money"
+        }
+      ]
+    },
+    {
+      "code": "GN",
+      "name": "Guinea",
+      "currency": "GNF",
+      "phonePrefix": "224",
+      "live": false,
+      "disbursement": null,
+      "mnos": [
+        {
+          "id": "Orange Money",
+          "label": "Orange Money"
+        },
+        {
+          "id": "MTN",
+          "label": "MTN MoMo"
+        }
+      ]
+    },
+    {
+      "code": "SL",
+      "name": "Sierra Leone",
+      "currency": "SLE",
+      "phonePrefix": "232",
+      "live": true,
+      "disbursement": "coming_soon",
+      "mnos": [
+        {
+          "id": "Orange Money",
+          "label": "Orange Money"
+        },
+        {
+          "id": "Africell",
+          "label": "Africell Money"
+        }
+      ]
+    },
+    {
+      "code": "TG",
+      "name": "Togo",
+      "currency": "XOF",
+      "phonePrefix": "228",
+      "live": false,
+      "disbursement": null,
+      "mnos": [
+        {
+          "id": "Moov",
+          "label": "Moov Money"
+        },
+        {
+          "id": "TMoney",
+          "label": "T-Money"
+        }
+      ]
+    },
+    {
+      "code": "CD",
+      "name": "DR Congo",
+      "currency": "CDF",
+      "phonePrefix": "243",
+      "live": true,
+      "disbursement": "coming_soon",
+      "mnos": [
+        {
+          "id": "Vodacom",
+          "label": "M-Pesa (Vodacom)"
+        },
+        {
+          "id": "Airtel",
+          "label": "Airtel Money"
+        },
+        {
+          "id": "Orange Money",
+          "label": "Orange Money"
+        },
+        {
+          "id": "Africell",
+          "label": "Africell Money"
+        }
+      ]
+    },
+    {
+      "code": "CG",
+      "name": "Republic of Congo",
+      "currency": "XAF",
+      "phonePrefix": "242",
+      "live": true,
+      "disbursement": "coming_soon",
+      "mnos": [
+        {
+          "id": "MTN",
+          "label": "MTN MoMo"
+        },
+        {
+          "id": "Airtel",
+          "label": "Airtel Money"
+        }
+      ]
+    },
+    {
+      "code": "GA",
+      "name": "Gabon",
+      "currency": "XAF",
+      "phonePrefix": "241",
+      "live": true,
+      "disbursement": "coming_soon",
+      "mnos": [
+        {
+          "id": "Airtel",
+          "label": "Airtel Money"
+        },
+        {
+          "id": "Moov",
+          "label": "Moov Money"
+        }
+      ]
+    },
+    {
+      "code": "TD",
+      "name": "Chad",
+      "currency": "XAF",
+      "phonePrefix": "235",
+      "live": false,
+      "disbursement": null,
+      "mnos": [
+        {
+          "id": "Airtel",
+          "label": "Airtel Money"
+        },
+        {
+          "id": "Moov",
+          "label": "Moov Money"
+        }
+      ]
+    },
+    {
+      "code": "ZA",
+      "name": "South Africa",
+      "currency": "ZAR",
+      "phonePrefix": "27",
+      "live": false,
+      "disbursement": null,
+      "mnos": [
+        {
+          "id": "Vodacom",
+          "label": "Vodacom VodaPay"
+        },
+        {
+          "id": "MTN",
+          "label": "MTN MoMo"
+        }
+      ]
+    },
+    {
+      "code": "ZM",
+      "name": "Zambia",
+      "currency": "ZMW",
+      "phonePrefix": "260",
+      "live": true,
+      "disbursement": "coming_soon",
+      "mnos": [
+        {
+          "id": "MTN",
+          "label": "MTN MoMo"
+        },
+        {
+          "id": "Airtel",
+          "label": "Airtel Money"
+        },
+        {
+          "id": "Zamtel",
+          "label": "Zamtel Kwacha"
+        }
+      ]
+    },
+    {
+      "code": "ZW",
+      "name": "Zimbabwe",
+      "currency": "USD",
+      "phonePrefix": "263",
+      "live": false,
+      "disbursement": null,
+      "mnos": [
+        {
+          "id": "EcoCash",
+          "label": "EcoCash"
+        },
+        {
+          "id": "OneMoney",
+          "label": "OneMoney"
+        },
+        {
+          "id": "Telecash",
+          "label": "Telecash"
+        }
+      ]
+    },
+    {
+      "code": "MZ",
+      "name": "Mozambique",
+      "currency": "MZN",
+      "phonePrefix": "258",
+      "live": true,
+      "disbursement": "coming_soon",
+      "mnos": [
+        {
+          "id": "Vodacom",
+          "label": "M-Pesa (Vodacom)"
+        },
+        {
+          "id": "eMola",
+          "label": "e-Mola"
+        },
+        {
+          "id": "mKesh",
+          "label": "mKesh"
+        }
+      ]
+    },
+    {
+      "code": "MW",
+      "name": "Malawi",
+      "currency": "MWK",
+      "phonePrefix": "265",
+      "live": false,
+      "disbursement": null,
+      "mnos": [
+        {
+          "id": "Airtel",
+          "label": "Airtel Money"
+        },
+        {
+          "id": "TNM",
+          "label": "TNM Mpamba"
+        }
+      ]
+    },
+    {
+      "code": "LS",
+      "name": "Lesotho",
+      "currency": "LSL",
+      "phonePrefix": "266",
+      "live": false,
+      "disbursement": null,
+      "mnos": [
+        {
+          "id": "Vodacom",
+          "label": "M-Pesa (Vodacom)"
+        },
+        {
+          "id": "EcoCash",
+          "label": "EcoCash"
+        }
+      ]
+    },
+    {
+      "code": "SZ",
+      "name": "Eswatini",
+      "currency": "SZL",
+      "phonePrefix": "268",
+      "live": false,
+      "disbursement": null,
+      "mnos": [
+        {
+          "id": "MTN",
+          "label": "MTN MoMo"
+        }
+      ]
+    },
+    {
+      "code": "EG",
+      "name": "Egypt",
+      "currency": "EGP",
+      "phonePrefix": "20",
+      "live": false,
+      "disbursement": null,
+      "mnos": [
+        {
+          "id": "Vodafone",
+          "label": "Vodafone Cash"
+        },
+        {
+          "id": "Orange Money",
+          "label": "Orange Money"
+        },
+        {
+          "id": "Etisalat",
+          "label": "Etisalat Cash"
+        }
+      ]
+    },
+    {
+      "code": "MA",
+      "name": "Morocco",
+      "currency": "MAD",
+      "phonePrefix": "212",
+      "live": false,
+      "disbursement": null,
+      "mnos": [
+        {
+          "id": "Orange Money",
+          "label": "Orange Money"
+        },
+        {
+          "id": "inwi",
+          "label": "inwi money"
+        }
+      ]
+    },
+    {
+      "code": "TN",
+      "name": "Tunisia",
+      "currency": "TND",
+      "phonePrefix": "216",
+      "live": false,
+      "disbursement": null,
+      "mnos": [
+        {
+          "id": "Orange Money",
+          "label": "Orange Money"
+        },
+        {
+          "id": "D17",
+          "label": "D17"
+        }
+      ]
+    }
+  ]
+}

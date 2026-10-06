@@ -1,0 +1,17 @@
+{
+  "name": "ultraner",
+  "version": "0.1.0",
+  "description": "Ultraner CLI. `npx ultraner init` detects your project, asks what you are building, recommends an Ultraner integration and scaffolds it.",
+  "license": "MIT",
+  "homepage": "https://ultraner.com/docs",
+  "repository": { "type": "git", "url": "https://github.com/Ultraner/ultraner-cli.git" },
+  "type": "module",
+  "bin": { "ultraner": "bin/ultraner.js" },
+  "files": ["bin", "src", "README.md", "LICENSE"],
+  "scripts": {
+    "test": "node --test test/cli.test.js",
+    "sync-coverage": "node scripts/sync-coverage.mjs"
+  },
+  "keywords": ["ultraner", "payments", "africa", "mobile money", "mpesa", "cli", "scaffold"],
+  "engines": { "node": ">=18" }
+}
